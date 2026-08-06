@@ -1,0 +1,46 @@
+{
+  "name": "moekyawaung-portfolio-2026",
+  "version": "2026.1.0",
+  "description": "Ultra Portfolio 2026 - Moe Kyaw Aung",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=8080",
+    "build": "echo 'Static site - no build needed'",
+    "deploy:github": "gh-pages -d .",
+    "deploy:netlify": "netlify deploy --prod",
+    "deploy:vercel": "vercel --prod",
+    "deploy:cloudflare": "wrangler pages deploy .",
+    "optimize": "imagemin assets/images/* --out-dir=assets/images/optimized",
+    "lint": "htmlhint **/*.html",
+    "test": "echo 'No tests specified'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dev-moe-kyawaung/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "android",
+    "developer",
+    "kotlin",
+    "jetpack-compose",
+    "firebase",
+    "moekyawaung"
+  ],
+  "author": "Moe Kyaw Aung <moekyawaung@programmer.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-moe-kyawaung/portfolio/issues"
+  },
+  "homepage": "https://moekyawaung.github.io/",
+  "devDependencies": {
+    "gh-pages": "^6.1.0",
+    "htmlhint": "^0.15.1",
+    "imagemin-cli": "^8.0.0",
+    "live-server": "^0.0.6"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
