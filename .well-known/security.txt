@@ -1,0 +1,18 @@
+# Security Policy for Moe Kyaw Aung Portfolio
+# Contact: moekyawaung@programmer.net
+
+Contact: mailto:moekyawaung@programmer.net
+Contact: tel:+959889000889
+
+Encryption: https://keybase.io/moekyawaung/pgp_keys.asc
+
+Preferred-Languages: en, my
+
+Canonical: https://moekyawaung.github.io/.well-known/security.txt
+
+Policy: https://moekyawaung.github.io/security.html
+
+Acknowledgments: https://moekyawaung.github.io/acknowledgments.html
+
+# This file is cached for 1 hour
+Cache-Control: max-age=3600
