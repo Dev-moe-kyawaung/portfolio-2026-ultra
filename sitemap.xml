@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Main Pages -->
+  <url>
+    <loc>https://moekyawaung.github.io/</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/about.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/skills.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/projects.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/certifications.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    ```
+    <loc>https://moekyawaung.github.io/github-repos.html</loc>
+    ```
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/contact.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    ```
+    <loc>https://moekyawaung.github.io/social-media.html</loc>
+    ```
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/experience.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/education.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/gallery.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/videos.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/timeline.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/blog.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/services.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/testimonials.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/faq.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/downloads.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/resources.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/tools.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/achievements.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/hiring.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/privacy.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://moekyawaung.github.io/terms.html</loc>
+    ```
+    <lastmod>2026-08-06</lastmod>
+    ```
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+</urlset>
