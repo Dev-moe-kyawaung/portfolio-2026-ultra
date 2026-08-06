@@ -1,5 +1,3 @@
-
-```markdown
 # 🚀 Moe Kyaw Aung - Ultra Portfolio 2026
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?style=for-the-badge&logo=github)](https://moekyawaung.github.io/)
