@@ -1,3 +1,4 @@
+```yaml
 # Jekyll Configuration for GitHub Pages
 
 title: Moe Kyaw Aung - Senior Android Developer
@@ -29,3 +30,51 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+# SEO Configuration
+seo:
+  title: Moe Kyaw Aung - Senior Android Developer
+  description: Professional portfolio showcasing 100+ projects, 82+ certifications, and 10+ years of Android development experience
+  image: https://res.cloudinary.com/dye5qpwii/image/upload/v1778747388/image-1_1_khsx9s.png
+  twitter:
+    username: moekyawaung
+  facebook:
+    publisher: moekyawaung
+
+# Social Media
+social:
+  github: Dev-moe-kyawaung
+  linkedin: moe-kyaw-aung-2653093a1
+  twitter: moekyawaung
+  facebook: moekyawaung
+
+# Google Analytics
+google_analytics: UA-XXXXXXXXX-X
+
+# Verification codes
+webmaster_verifications:
+  google: "your-google-verification-code"
+  bing: "your-bing-verification-code"
+  facebook: "your-facebook-verification-code"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Feed configuration
+feed:
+  path: feed.xml
+  posts_limit: 10
+
+# Sitemap configuration
+sitemap:
+  file: "/sitemap.xml"
+  exclude:
+    - atom.xml
+    - feed.xml
+  include_posts:
+    - "/blog/"
+  change_frequency_name_to: "change_frequency"
+```
