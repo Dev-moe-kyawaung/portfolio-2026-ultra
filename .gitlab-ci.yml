@@ -1,0 +1,18 @@
+# GitLab CI/CD Configuration for Portfolio
+# Deploy to GitLab Pages
+
+image: ruby:2.7
+
+pages:
+  stage: deploy
+  script:
+    - gem install bundler
+    - bundle install
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+  rules:
+    - if: \$CI_COMMIT_REF_NAME == \$CI_DEFAULT_BRANCH
