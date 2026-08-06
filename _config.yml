@@ -1,4 +1,3 @@
-```yaml
 # Jekyll Configuration for GitHub Pages
 
 title: Moe Kyaw Aung - Senior Android Developer
@@ -77,4 +76,4 @@ sitemap:
   include_posts:
     - "/blog/"
   change_frequency_name_to: "change_frequency"
-```
+
