@@ -1,0 +1,21 @@
+# Cloudflare Pages Configuration
+# https://developers.cloudflare.com/pages/
+
+name = "moekyawaung-portfolio"
+compatibility_date = "2024-01-01"
+
+[site]
+bucket = "."
+entry-point = "."
+
+[vars]
+ENVIRONMENT = "production"
+PORTFOLIO_VERSION = "2026.1.0"
+
+# Build command (optional)
+[build]
+command = "npm run build"
+
+# Preview deployment
+[preview]
+branch = "main"
