@@ -1,0 +1,19 @@
+# Codeberg Pages Configuration
+# https://codeberg.org/moekyawaung/portfolio
+
+# Build settings
+build:
+  image: node:16
+  commands:
+    - npm install
+    - npm run build
+
+# Deploy settings
+deploy:
+  branch: main
+  folder: public
+  domain: moekyawaung.codeberg.page
+
+# Environment variables
+env:
+  NODE_ENV: production
