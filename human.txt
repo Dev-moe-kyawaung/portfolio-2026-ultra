@@ -1,0 +1,28 @@
+
+/* SITE INFORMATION */
+Site: Moe Kyaw Aung Portfolio
+URL: https://moekyawaung.github.io/
+Standard: HTML5, CSS3, JavaScript
+Language: English, Burmese
+Components: Bootstrap 5, Font Awesome, AOS
+IDE: VS Code, Android Studio
+
+/* TEAM */
+Developer: Moe Kyaw Aung
+Email: moekyawaung@programmer.net
+Location: Tachileik, Myanmar 🇲🇲 ↔ Bangkok, Thailand 🇹🇭
+LinkedIn: https://www.linkedin.com/in/moe-kyaw-aung-2653093a1
+GitHub: https://github.com/Dev-moe-kyawaung/
+
+/* THANKS */
+Bootstrap Team
+Font Awesome
+Google Fonts
+Cloudinary
+GitHub
+Cloudflare
+
+/* SITE HISTORY */
+Version 2026.1.0: August 2026 - Ultra Portfolio 2026
+Version 2025.1.0: January 2025 - Portfolio 2025
+Version 2024.1.0: January 2024 - Portfolio 2024
