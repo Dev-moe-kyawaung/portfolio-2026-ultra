@@ -1,0 +1,73 @@
+# Robots.txt for Moe Kyaw Aung Portfolio
+# https://moekyawaung.github.io/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://moekyawaung.github.io/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Disallow admin and private directories (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Allow all static assets
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+Allow: /images/
+
+# Specific rules for image bots
+User-agent: Googlebot-Image
+Disallow: /css/
+Disallow: /js/
+
+# Block aggressive bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
