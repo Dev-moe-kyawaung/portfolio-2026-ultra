@@ -1,0 +1,31 @@
+# Jekyll Configuration for GitHub Pages
+
+title: Moe Kyaw Aung - Senior Android Developer
+description: Portfolio of Moe Kyaw Aung - Senior Android Developer with 10+ years experience in Kotlin, Jetpack Compose, Firebase, and AI/ML
+author: Moe Kyaw Aung
+email: moekyawaung@programmer.net
+
+# URL Configuration
+url: "https://moekyawaung.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Include files
+include:
+  - _pages
+  - _posts
+  - assets
+
+# Exclude files
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
